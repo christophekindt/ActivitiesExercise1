@@ -1,1 +1,1 @@
-# AndroidExercises
+# ActivitiesExercise1
